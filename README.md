@@ -5,6 +5,7 @@
 - 🔭 atualmente em busca da primeira oportunidade para atuar como DEV.
 - 🌱 Estudo na Kenzie academy Brasil formado no front-end(HTML, CSS, JS, React) e atualmente estudando back-end(Node, express, postgres, typescript, typeORM) com formação prevista para novembro de 2022.
 - 📫 How to reach me: https://www.linkedin.com/in/anthoni-felipi/
+- 📫 PortFolio: https://portfolio2-ashen-tau.vercel.app/
 - 😄 Pronouns: Ele/Dele
 
 
