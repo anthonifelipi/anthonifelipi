@@ -13,7 +13,7 @@
 <br>
 
 - 🔭 atualmente em busca da primeira oportunidade para atuar como DEV.
-- 🌱 Formado na Kenzie academy Brasil utilizando tecnologias no front-end como (HTML, CSS, JS, TS, React) e tecnologias no back-end(Node, express, postgres, typescript, typeORM, Python, Django) com formação prevista para novembro de 2022.
+- 🌱 Formado na Kenzie academy Brasil utilizando tecnologias no front-end como (HTML, CSS, JS, TS, React) e tecnologias no back-end(Node, express, postgres, typescript, typeORM, Python, Django) com formação em novembro de 2022.
 - 📫 How to reach me: https://www.linkedin.com/in/anthoni-felipi/
 - 📫 PortFolio: https://portfolio2-ashen-tau.vercel.app/
 - 😄 Pronouns: Ele/Dele
