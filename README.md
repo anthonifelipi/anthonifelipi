@@ -7,16 +7,27 @@
 <br>
 
 <p align="center">
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> About me</b>
+ <b> About me</b>
 </p>
 
 <br>
+I'm a Software Development professional with a background in Logistics, having transitioned into the field in 2022. Since then, I've been working with technologies such as JavaScript, Node.js, and Python, focusing on code quality, best practices, and the delivery of efficient solutions. My experience includes developing new features, fixing bugs and vulnerabilities, writing unit and integration tests, and monitoring applications in production environments. I value a professional attitude, active listening, and the ability to face challenges—qualities that contribute to a healthy and productive team environment.
 
-- 🔭 atualmente em busca da primeira oportunidade para atuar como DEV.
-- 🌱 Formado na Kenzie academy Brasil utilizando tecnologias no front-end como (HTML, CSS, JS, TS, React) e tecnologias no back-end(Node, express, postgres, typescript, typeORM, Python, Django) com formação em novembro de 2022.
-- 📫 How to reach me: https://www.linkedin.com/in/anthoni-felipi/
-- 📫 PortFolio: https://portfolio2-ashen-tau.vercel.app/
-- 😄 Pronouns: Ele/Dele
+Main Skills:
+
+<strong>Frontend:</strong>
+💡 HTML5 | CSS3 | JavaScript (ES6) | React | Hooks | Redux | Consume an API
+
+<strong>Backend:</strong>
+⚙️ Node.js | Express | TypeScript | Python | Django | PostgreSQL | TypeORM
+
+<strong>Fundamentals & Practices:</strong>
+💻 Programming Logic | Object-Oriented Programming (OOP) | Version Control (Git/GitHub) | Scrum
+
+Contacts: 
+<p>Portfolio: https://portfolio2-ashen-tau.vercel.app/ </p>
+<p>GitHub: https://github.com/anthonifelipi</p>
+<p>E-mail: anthonifelipi@gmail.com</p>
 
 <br>
 
